@@ -327,11 +327,12 @@ li {
 }
 
 form {
-  margin:auto;
+  margin: auto;
   margin-top: 10px;
   display: flex;
   flex-direction: column;
 }
+
 input {
   border: none;
   border-bottom: 1px solid rgb(155, 155, 155);
